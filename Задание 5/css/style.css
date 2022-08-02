@@ -1,0 +1,33 @@
+#response-block {
+	display: flex;
+	flex-wrap: wrap;
+	width: 1000px;
+}
+
+.card {
+	width: 400px;
+	margin: 20px;
+}
+
+.card_image {
+	width: 400px;
+}
+
+.form-block {
+	position: relative;
+	display: inline-block;
+	height: 100px;
+
+}
+
+label {
+	display: inline-block;
+	width: 125px;
+	padding: 5px;
+}
+
+button {
+	margin-top: 10px;
+	position: absolute;
+	right: 0px;
+}
